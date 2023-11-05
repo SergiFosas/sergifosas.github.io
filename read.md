@@ -22,7 +22,7 @@ El disseny del lloc es va realitzar utilitzant Figma.
 ### Documentació (README.md)
 
 #### Perfil de l'Usuari Objectiu
-El lloc està dissenyat per ser accessible i atractiu per a [descripció de l'usuari final].
+El lloc està dissenyat per ser accessible i atractiu per a aquell empleador interessat en mi.
 
 #### Arquitectura de la Informació
 L'estructura del lloc segueix una única pàgina amb seccions lògiques per a una navegació intuïtiva.
